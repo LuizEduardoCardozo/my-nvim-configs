@@ -9,4 +9,6 @@ require('lualune_config')
 
 require('coc_config')
 
-require('keymaps')
+print(vim.bo.filetype)
+
+require('langs.golang')
