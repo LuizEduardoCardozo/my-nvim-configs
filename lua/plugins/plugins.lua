@@ -44,4 +44,7 @@ return {
       'nvim-tree/nvim-web-devicons',
     },
   },
+  {
+    "numToStr/FTerm.nvim"
+  }
 }

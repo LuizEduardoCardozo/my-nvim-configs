@@ -12,3 +12,5 @@ require('coc_config')
 print(vim.bo.filetype)
 
 require('langs.golang')
+
+require('fterm_config')
